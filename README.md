@@ -1,7 +1,3 @@
-# Docker-dungeon
-Docker is a platform that enables developers to package, deploy, and run applications and their dependencies in isolated containers, ensuring consistency across different computing environments.
-
-Certainly! Here's a basic markdown template for your repo related to learning Docker:
 
 
 # Learning Docker
